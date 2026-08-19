@@ -1,0 +1,4 @@
+yfinance
+pandas
+moomoo-api
+python-dotenv
